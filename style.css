@@ -66,7 +66,7 @@ main {
     width: 700px;
     padding: 1.5em;
     border-radius: 10px;
-    margin: auto;
+    margin: 3em auto;
 }
 
 .more-articles section {
@@ -76,5 +76,6 @@ main {
 }
 
 p {
+    padding: 0 10px;
     text-align: justify;
 }
